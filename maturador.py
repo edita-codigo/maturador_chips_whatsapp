@@ -1,4 +1,4 @@
-Este código em Python utiliza a biblioteca Selenium para automatizar o envio de mensagens no WhatsApp. Ele carrega uma lista de conversas e uma lista de telefones para enviar as mensagens. A função "maturador" é responsável por escolher aleatoriamente um telefone e uma mensagem, localizar a caixa de pesquisa do WhatsApp, inserir o telefone selecionado, enviar a mensagem e retornar para a caixa de pesquisa para o próximo envio.
+#Este código em Python utiliza a biblioteca Selenium para automatizar o envio de mensagens no WhatsApp. Ele carrega uma lista de conversas e uma lista de telefones para enviar as mensagens. A função "maturador" é responsável por escolher aleatoriamente um telefone e uma mensagem, localizar a caixa de pesquisa do WhatsApp, inserir o telefone selecionado, enviar a mensagem e retornar para a caixa de pesquisa para o próximo envio.
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
